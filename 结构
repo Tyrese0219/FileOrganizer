@@ -1,0 +1,11 @@
+MyProject/
+  ├── .gitignore          # 忽略文件（如临时文件、虚拟环境）
+  ├── README.md           # 项目说明文档（必含！）
+  ├── requirements.txt    # Python依赖库列表
+  ├── src/                # 主代码目录
+  │   ├── __init__.py     # Python包标识文件
+  │   └── main.py         # 主程序代码
+  ├── tests/              # 测试代码
+  │   └── test_main.py
+  └── docs/               # 文档（可选）
+      └── tutorial.md
